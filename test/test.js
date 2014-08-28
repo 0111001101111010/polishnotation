@@ -14,7 +14,7 @@ var expression3 = ['3','4','*','2',"/"]; // 6
     assert.equal(p.postFix(expression2), -6, "it should be -6");
   });
 
-  it("The answer to ['3','4','*','2',"/"] should be 6", function() {
+  it("The answer to ['3','4','*','2','/'] should be 6", function() {
     assert.equal(p.postFix(expression3), 6, "it should be 6");
   });
 });
