@@ -1,5 +1,5 @@
 var assert = require('chai').assert;
-var p = require('../lib/lib');
+var p = require('../lib/polish');
 
 describe('Test Expressions', function() {
 var expression = ['3','4','-','5','+']; //4
