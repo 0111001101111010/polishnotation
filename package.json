@@ -1,0 +1,27 @@
+{
+  "name": "polishnotation",
+  "version": "0.1.0",
+  "description": "polish notation operators, postfix, infix, and prefix support",
+  "main": "lib/lib.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stanzheng/polishnotation"
+  },
+  "keywords": [
+    "polish",
+    "notation",
+    "postfix"
+  ],
+  "author": "stanzheng",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/stanzheng/polishnotation/issues"
+  },
+  "homepage": "https://github.com/stanzheng/polishnotation"
+}
