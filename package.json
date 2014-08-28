@@ -1,8 +1,8 @@
 {
   "name": "polishnotation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "polish notation operators, postfix, infix, and prefix support",
-  "main": "lib/lib.js",
+  "main": "lib/polish.js",
   "directories": {
     "test": "test"
   },
